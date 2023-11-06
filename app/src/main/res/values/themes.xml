@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Cambiamos los colores primarios, primario oscuro y de acento. -->
+    <style name="Base.Theme.Alquiler_vehiculos" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#D32FD3</item>
+        <item name="colorPrimaryDark">@color/teal_200</item>
+        <item name="colorAccent">#FFEB3B</item>
+    </style>
+
+    <style name="Theme.Alquiler_vehiculos" parent="Base.Theme.Alquiler_vehiculos" />
+</resources>
